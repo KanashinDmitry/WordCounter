@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+.vs/
+bin/
+obj/
+Properties/
+*.csproj*
+*.txt
+*.fb2
+*.sln
+*.config
+Connected Services/
+*.svc
